@@ -1,0 +1,7 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 9,
+  "bracketSpacing": true,
+  "prettier.printWidth": 80
+}
